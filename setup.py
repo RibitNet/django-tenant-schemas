@@ -10,7 +10,7 @@ except ImportError:
     from distutils.core import setup
 
 setup(
-    name='ribit-django-tenant-schemas',
+    name='django-tenant-schemas',
     version=get_git_version(),
     author='Bernardo Pires Carneiro',
     author_email='carneiro.be@gmail.com',

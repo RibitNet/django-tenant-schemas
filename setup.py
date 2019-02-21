@@ -44,8 +44,7 @@ setup(
         "Topic :: Software Development :: Libraries",
     ],
     install_requires=[
-        'Django >= 1.8.0',
-        'psycopg2',
+        'Django >= 1.8.0'
     ],
     zip_safe=False,
 )
